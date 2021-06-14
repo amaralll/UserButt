@@ -102,6 +102,9 @@ OCR_SPACE_API_KEY = os.environ.get("OCR_SPACE_API_KEY", None)
 # TELEGRAPH
 TELEGRAPH_SHORT_NAME = os.environ.get("TELEGRAPH_SHORT_NAME", None)
 
+# Stickerchat Module
+QUOTES_API_TOKEN = os.environ.get("QUOTES_API_TOKEN", None)
+
 # remove.bg API key
 REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
 
